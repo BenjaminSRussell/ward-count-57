@@ -415,3 +415,6 @@
 {"n":415,"kind":"place","name":"the pier north escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the pier north escape. Bess keeps the radio coil for the start. 8 steps, arc on the left lane, open."}
 {"n":416,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north escape. arc left open. 2 steps. The radio coil stays for the start."}
 {"n":417,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the radio coil at Clinic roof. Nobody past the north escape. We start in 3 steps. Arc on the left lane, open."}
+{"n":418,"kind":"place","name":"Clinic roof north escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Clinic roof north escape. Matt keeps the radio coil for the start. 4 steps, arc on the left lane, open."}
+{"n":419,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, north escape. arc left open. 5 steps. The radio coil stays for the start."}
+{"n":420,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the radio coil at Clinic roof. Nobody past the north escape. We start in 6 steps. Arc on the left lane, open."}
