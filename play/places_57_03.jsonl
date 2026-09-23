@@ -583,3 +583,6 @@
 {"n":583,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, south escape. arc left open. 7 steps. The rope stays for the start."}
 {"n":584,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rope at the pier. Nobody past the south escape. We start in 8 steps. Arc on the left lane, open."}
 {"n":585,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the pier south escape. Nia keeps the rope for the start. 2 steps, arc on the left lane, open."}
+{"n":586,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, south escape. arc left open. 3 steps. The rope stays for the start."}
+{"n":587,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rope at the pier. Nobody past the south escape. We start in 4 steps. Arc on the left lane, open."}
+{"n":588,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the pier south escape. Ivo keeps the rope for the start. 5 steps, arc on the left lane, open."}
