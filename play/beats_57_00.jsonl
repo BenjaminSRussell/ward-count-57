@@ -698,3 +698,6 @@
 {"n":698,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at Mast yard. Nobody past the north escape. We start in 6 steps. Arc on the left lane, open."}
 {"n":699,"kind":"place","name":"Mast yard north escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard north escape. Bess keeps the hydrant for the start. 7 steps, arc on the left lane, open."}
 {"n":700,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north escape. arc left open. 8 steps. The hydrant stays for the start."}
+{"n":701,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the hydrant at Last Light. Nobody past the north escape. We start in 2 steps. Arc on the left lane, open."}
+{"n":702,"kind":"place","name":"Last Light north escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light north escape. Matt keeps the hydrant for the start. 3 steps, arc on the left lane, open."}
+{"n":703,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, north escape. arc left open. 4 steps. The hydrant stays for the start."}
