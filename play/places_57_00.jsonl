@@ -520,3 +520,6 @@
 {"n":520,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, north escape. arc left open. 3 steps. The plywood stays for the start."}
 {"n":521,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at Mast yard. Nobody past the north escape. We start in 4 steps. Arc on the left lane, open."}
 {"n":522,"kind":"place","name":"Mast yard north escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Mast yard north escape. Matt keeps the plywood for the start. 5 steps, arc on the left lane, open."}
+{"n":523,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, north escape. arc left open. 6 steps. The plywood stays for the start."}
+{"n":524,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at Mast yard. Nobody past the north escape. We start in 7 steps. Arc on the left lane, open."}
+{"n":525,"kind":"place","name":"Mast yard north escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mast yard north escape. Nia keeps the plywood for the start. 8 steps, arc on the left lane, open."}
