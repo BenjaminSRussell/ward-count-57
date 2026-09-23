@@ -48,3 +48,6 @@
 {"n":48,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, north escape. arc left open. 6 steps. The crate stays for the start."}
 {"n":49,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at South stair. Nobody past the north escape. We start in 7 steps. Arc on the left lane, open."}
 {"n":50,"kind":"place","name":"South stair north escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"South stair north escape. Matt keeps the crate for the start. 8 steps, arc on the left lane, open."}
+{"n":51,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, north escape. arc left open. 2 steps. The crate stays for the start."}
+{"n":52,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at South stair. Nobody past the north escape. We start in 3 steps. Arc on the left lane, open."}
+{"n":53,"kind":"place","name":"South stair north escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"South stair north escape. Nia keeps the crate for the start. 4 steps, arc on the left lane, open."}
