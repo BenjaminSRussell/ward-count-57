@@ -185,3 +185,6 @@
 {"n":185,"kind":"place","name":"Stockyard fence south escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence south escape. Nia keeps the badge door for the start. 7 steps, arc on the left lane, open."}
 {"n":186,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, south escape. arc left open. 8 steps. The badge door stays for the start."}
 {"n":187,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the badge door at Stockyard fence. Nobody past the south escape. We start in 2 steps. Arc on the left lane, open."}
+{"n":188,"kind":"place","name":"Stockyard fence south escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence south escape. Ivo keeps the badge door for the start. 3 steps, arc on the left lane, open."}
+{"n":189,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, south escape. arc left open. 4 steps. The badge door stays for the start."}
+{"n":190,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the badge door at Stockyard fence. Nobody past the south escape. We start in 5 steps. Arc on the left lane, open."}
