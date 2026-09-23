@@ -238,3 +238,6 @@
 {"n":238,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at the pier. Nobody past the north escape. We start in 7 steps. Arc on the left lane, open."}
 {"n":239,"kind":"place","name":"the pier north escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier north escape. Bess keeps the lamp for the start. 8 steps, arc on the left lane, open."}
 {"n":240,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north escape. arc left open. 2 steps. The lamp stays for the start."}
+{"n":241,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at Clinic roof. Nobody past the north escape. We start in 3 steps. Arc on the left lane, open."}
+{"n":242,"kind":"place","name":"Clinic roof north escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Clinic roof north escape. Matt keeps the lamp for the start. 4 steps, arc on the left lane, open."}
+{"n":243,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, north escape. arc left open. 5 steps. The lamp stays for the start."}
