@@ -825,3 +825,6 @@
 {"n":825,"kind":"place","name":"Stockyard fence north escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence north escape. Nia keeps the barrel for the start. 7 steps, arc on the left lane, open."}
 {"n":826,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north escape. arc left open. 8 steps. The barrel stays for the start."}
 {"n":827,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the barrel at Stockyard fence. Nobody past the north escape. We start in 2 steps. Arc on the left lane, open."}
+{"n":828,"kind":"place","name":"Stockyard fence north escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence north escape. Ivo keeps the barrel for the start. 3 steps, arc on the left lane, open."}
+{"n":829,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, north escape. arc left open. 4 steps. The barrel stays for the start."}
+{"n":830,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the barrel at Stockyard fence. Nobody past the north escape. We start in 5 steps. Arc on the left lane, open."}
