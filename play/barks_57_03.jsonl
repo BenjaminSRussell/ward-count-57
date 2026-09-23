@@ -447,3 +447,6 @@
 {"n":447,"kind":"place","name":"Switchyard south escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard south escape. Bess keeps the rebar for the start. 4 steps, arc on the left lane, open."}
 {"n":448,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south escape. arc left open. 5 steps. The rebar stays for the start."}
 {"n":449,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rebar at Drydock. Nobody past the south escape. We start in 6 steps. Arc on the left lane, open."}
+{"n":450,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Drydock south escape. Matt keeps the rebar for the start. 7 steps, arc on the left lane, open."}
+{"n":451,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south escape. arc left open. 8 steps. The rebar stays for the start."}
+{"n":452,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rebar at Drydock. Nobody past the south escape. We start in 2 steps. Arc on the left lane, open."}
