@@ -175,3 +175,6 @@
 {"n":175,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, south escape. arc left open. 5 steps. The lamp stays for the start."}
 {"n":176,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the lamp at Stockyard fence. Nobody past the south escape. We start in 6 steps. Arc on the left lane, open."}
 {"n":177,"kind":"place","name":"Stockyard fence south escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Stockyard fence south escape. Nia keeps the lamp for the start. 7 steps, arc on the left lane, open."}
+{"n":178,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, south escape. arc left open. 8 steps. The lamp stays for the start."}
+{"n":179,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at Stockyard fence. Nobody past the south escape. We start in 2 steps. Arc on the left lane, open."}
+{"n":180,"kind":"place","name":"Stockyard fence south escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Stockyard fence south escape. Ivo keeps the lamp for the start. 3 steps, arc on the left lane, open."}
