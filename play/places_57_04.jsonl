@@ -498,3 +498,6 @@
 {"n":498,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west curb. arc left open. 5 steps. The plywood stays for the push."}
 {"n":499,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the plywood at Kessler alley. Nobody past the west curb. We push in 6 steps. Arc on the left lane, open."}
 {"n":500,"kind":"place","name":"Kessler alley west curb","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley west curb. Ivo keeps the plywood for the push. 7 steps, arc on the left lane, open."}
+{"n":501,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west curb. arc left open. 8 steps. The plywood stays for the push."}
+{"n":502,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the plywood at Kessler alley. Nobody past the west curb. We push in 2 steps. Arc on the left lane, open."}
+{"n":503,"kind":"place","name":"Kessler alley west curb","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley west curb. Bess keeps the plywood for the push. 3 steps, arc on the left lane, open."}
