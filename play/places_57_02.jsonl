@@ -668,3 +668,6 @@
 {"n":668,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south escape. arc left open. 2 steps. The hydrant stays for the start."}
 {"n":669,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the hydrant at Stockyard fence. Nobody past the south escape. We start in 3 steps. Arc on the left lane, open."}
 {"n":670,"kind":"place","name":"Stockyard fence south escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Stockyard fence south escape. Matt keeps the hydrant for the start. 4 steps, arc on the left lane, open."}
+{"n":671,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, south escape. arc left open. 5 steps. The hydrant stays for the start."}
+{"n":672,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the hydrant at Stockyard fence. Nobody past the south escape. We start in 6 steps. Arc on the left lane, open."}
+{"n":673,"kind":"place","name":"Stockyard fence south escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Stockyard fence south escape. Nia keeps the hydrant for the start. 7 steps, arc on the left lane, open."}
