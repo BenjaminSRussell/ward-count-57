@@ -863,3 +863,6 @@
 {"n":863,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south escape. arc left open. 8 steps. The barrel stays for the start."}
 {"n":864,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at the Underpass. Nobody past the south escape. We start in 2 steps. Arc on the left lane, open."}
 {"n":865,"kind":"place","name":"the Underpass south escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Underpass south escape. Nia keeps the barrel for the start. 3 steps, arc on the left lane, open."}
+{"n":866,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, south escape. arc left open. 4 steps. The barrel stays for the start."}
+{"n":867,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the barrel at the Underpass. Nobody past the south escape. We start in 5 steps. Arc on the left lane, open."}
+{"n":868,"kind":"place","name":"the Underpass south escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Underpass south escape. Ivo keeps the barrel for the start. 6 steps, arc on the left lane, open."}
