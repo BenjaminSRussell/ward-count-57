@@ -857,3 +857,6 @@
 {"n":857,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west curb. arc left open. 6 steps. The awning stays for the push."}
 {"n":858,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the awning at the Lot. Nobody past the west curb. We push in 7 steps. Arc on the left lane, open."}
 {"n":859,"kind":"place","name":"the Lot west curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot west curb. Bess keeps the awning for the push. 8 steps, arc on the left lane, open."}
+{"n":860,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west curb. arc left open. 2 steps. The awning stays for the push."}
+{"n":861,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the awning at Stockyard fence. Nobody past the west curb. We push in 3 steps. Arc on the left lane, open."}
+{"n":862,"kind":"place","name":"Stockyard fence west curb","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Stockyard fence west curb. Matt keeps the awning for the push. 4 steps, arc on the left lane, open."}
