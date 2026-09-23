@@ -873,3 +873,6 @@
 {"n":873,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the barrel at Mast yard. Nobody past the south escape. We start in 4 steps. Arc on the left lane, open."}
 {"n":874,"kind":"place","name":"Mast yard south escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mast yard south escape. Matt keeps the barrel for the start. 5 steps, arc on the left lane, open."}
 {"n":875,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, south escape. arc left open. 6 steps. The barrel stays for the start."}
+{"n":876,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at Mast yard. Nobody past the south escape. We start in 7 steps. Arc on the left lane, open."}
+{"n":877,"kind":"place","name":"Mast yard south escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mast yard south escape. Nia keeps the barrel for the start. 8 steps, arc on the left lane, open."}
+{"n":878,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, south escape. arc left open. 2 steps. The barrel stays for the start."}
