@@ -336,3 +336,6 @@
 {"n":336,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the rebar at Kessler alley. Nobody past the west curb. We push in 3 steps. Arc on the left lane, open."}
 {"n":337,"kind":"place","name":"Kessler alley west curb","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley west curb. Nia keeps the rebar for the push. 4 steps, arc on the left lane, open."}
 {"n":338,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west curb. arc left open. 5 steps. The rebar stays for the push."}
+{"n":339,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the rebar at Kessler alley. Nobody past the west curb. We push in 6 steps. Arc on the left lane, open."}
+{"n":340,"kind":"place","name":"Kessler alley west curb","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley west curb. Ivo keeps the rebar for the push. 7 steps, arc on the left lane, open."}
+{"n":341,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west curb. arc left open. 8 steps. The rebar stays for the push."}
