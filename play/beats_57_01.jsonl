@@ -574,3 +574,6 @@
 {"n":574,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rope at the pier. Nobody past the north escape. We start in 7 steps. Arc on the left lane, open."}
 {"n":575,"kind":"place","name":"the pier north escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the pier north escape. Bess keeps the rope for the start. 8 steps, arc on the left lane, open."}
 {"n":576,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north escape. arc left open. 2 steps. The rope stays for the start."}
+{"n":577,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rope at Clinic roof. Nobody past the north escape. We start in 3 steps. Arc on the left lane, open."}
+{"n":578,"kind":"place","name":"Clinic roof north escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Clinic roof north escape. Matt keeps the rope for the start. 4 steps, arc on the left lane, open."}
+{"n":579,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, north escape. arc left open. 5 steps. The rope stays for the start."}
