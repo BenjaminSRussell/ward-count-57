@@ -758,3 +758,6 @@
 {"n":758,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, south escape. arc left open. 8 steps. The hydrant stays for the start."}
 {"n":759,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the hydrant at Clinic roof. Nobody past the south escape. We start in 2 steps. Arc on the left lane, open."}
 {"n":760,"kind":"place","name":"Clinic roof south escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Clinic roof south escape. Ivo keeps the hydrant for the start. 3 steps, arc on the left lane, open."}
+{"n":761,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south escape. arc left open. 4 steps. The hydrant stays for the start."}
+{"n":762,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at Clinic roof. Nobody past the south escape. We start in 5 steps. Arc on the left lane, open."}
+{"n":763,"kind":"place","name":"Clinic roof south escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Clinic roof south escape. Bess keeps the hydrant for the start. 6 steps, arc on the left lane, open."}
