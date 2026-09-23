@@ -453,3 +453,6 @@
 {"n":453,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, east curb. arc left open. 6 steps. The rebar stays for the push."}
 {"n":454,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the rebar at the pier. Nobody past the east curb. We push in 7 steps. Arc on the left lane, open."}
 {"n":455,"kind":"place","name":"the pier east curb","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the pier east curb. Bess keeps the rebar for the push. 8 steps, arc on the left lane, open."}
+{"n":456,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, east curb. arc left open. 2 steps. The rebar stays for the push."}
+{"n":457,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the rebar at Clinic roof. Nobody past the east curb. We push in 3 steps. Arc on the left lane, open."}
+{"n":458,"kind":"place","name":"Clinic roof east curb","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Clinic roof east curb. Matt keeps the rebar for the push. 4 steps, arc on the left lane, open."}
