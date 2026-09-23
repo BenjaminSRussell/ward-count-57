@@ -392,3 +392,6 @@
 {"n":392,"kind":"place","name":"South stair north escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"South stair north escape. Ivo keeps the rebar for the start. 7 steps, arc on the left lane, open."}
 {"n":393,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north escape. arc left open. 8 steps. The rebar stays for the start."}
 {"n":394,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at South stair. Nobody past the north escape. We start in 2 steps. Arc on the left lane, open."}
+{"n":395,"kind":"place","name":"South stair north escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"South stair north escape. Bess keeps the rebar for the start. 3 steps, arc on the left lane, open."}
+{"n":396,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north escape. arc left open. 4 steps. The rebar stays for the start."}
+{"n":397,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rebar at the pier. Nobody past the north escape. We start in 5 steps. Arc on the left lane, open."}
