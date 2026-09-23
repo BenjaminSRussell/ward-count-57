@@ -771,3 +771,6 @@
 {"n":771,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north escape. arc left open. 8 steps. The shutter stays for the start."}
 {"n":772,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the shutter at Drydock. Nobody past the north escape. We start in 2 steps. Arc on the left lane, open."}
 {"n":773,"kind":"place","name":"Drydock north escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Drydock north escape. Nia keeps the shutter for the start. 3 steps, arc on the left lane, open."}
+{"n":774,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north escape. arc left open. 4 steps. The shutter stays for the start."}
+{"n":775,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the shutter at Drydock. Nobody past the north escape. We start in 5 steps. Arc on the left lane, open."}
+{"n":776,"kind":"place","name":"Drydock north escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock north escape. Ivo keeps the shutter for the start. 6 steps, arc on the left lane, open."}
