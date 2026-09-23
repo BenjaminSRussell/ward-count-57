@@ -699,3 +699,6 @@
 {"n":699,"kind":"place","name":"the Lot east curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot east curb. Bess keeps the hydrant for the push. 8 steps, arc on the left lane, open."}
 {"n":700,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east curb. arc left open. 2 steps. The hydrant stays for the push."}
 {"n":701,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the hydrant at Stockyard fence. Nobody past the east curb. We push in 3 steps. Arc on the left lane, open."}
+{"n":702,"kind":"place","name":"Stockyard fence east curb","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Stockyard fence east curb. Matt keeps the hydrant for the push. 4 steps, arc on the left lane, open."}
+{"n":703,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, east curb. arc left open. 5 steps. The hydrant stays for the push."}
+{"n":704,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the hydrant at Stockyard fence. Nobody past the east curb. We push in 6 steps. Arc on the left lane, open."}
