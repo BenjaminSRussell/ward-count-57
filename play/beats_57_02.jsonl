@@ -819,3 +819,6 @@
 {"n":819,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the barrel at Kessler alley. Nobody past the south escape. We start in 6 steps. Arc on the left lane, open."}
 {"n":820,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley south escape. Ivo keeps the barrel for the start. 7 steps, arc on the left lane, open."}
 {"n":821,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south escape. arc left open. 8 steps. The barrel stays for the start."}
+{"n":822,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the barrel at Kessler alley. Nobody past the south escape. We start in 2 steps. Arc on the left lane, open."}
+{"n":823,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley south escape. Bess keeps the barrel for the start. 3 steps, arc on the left lane, open."}
+{"n":824,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south escape. arc left open. 4 steps. The barrel stays for the start."}
