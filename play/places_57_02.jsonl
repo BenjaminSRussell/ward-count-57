@@ -611,3 +611,6 @@
 {"n":611,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south escape. arc left open. 8 steps. The plywood stays for the start."}
 {"n":612,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at Drydock. Nobody past the south escape. We start in 2 steps. Arc on the left lane, open."}
 {"n":613,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Drydock south escape. Nia keeps the plywood for the start. 3 steps, arc on the left lane, open."}
+{"n":614,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south escape. arc left open. 4 steps. The plywood stays for the start."}
+{"n":615,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at Drydock. Nobody past the south escape. We start in 5 steps. Arc on the left lane, open."}
+{"n":616,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock south escape. Ivo keeps the plywood for the start. 6 steps, arc on the left lane, open."}
