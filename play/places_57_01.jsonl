@@ -753,3 +753,6 @@
 {"n":753,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, north escape. arc left open. 4 steps. The shutter stays for the start."}
 {"n":754,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at Clinic roof. Nobody past the north escape. We start in 5 steps. Arc on the left lane, open."}
 {"n":755,"kind":"place","name":"Clinic roof north escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Clinic roof north escape. Bess keeps the shutter for the start. 6 steps, arc on the left lane, open."}
+{"n":756,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, north escape. arc left open. 7 steps. The shutter stays for the start."}
+{"n":757,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the shutter at Switchyard. Nobody past the north escape. We start in 8 steps. Arc on the left lane, open."}
+{"n":758,"kind":"place","name":"Switchyard north escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Switchyard north escape. Matt keeps the shutter for the start. 2 steps, arc on the left lane, open."}
