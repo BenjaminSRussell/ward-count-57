@@ -489,3 +489,6 @@
 {"n":489,"kind":"place","name":"Stockyard fence north escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Stockyard fence north escape. Nia keeps the plywood for the start. 7 steps, arc on the left lane, open."}
 {"n":490,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north escape. arc left open. 8 steps. The plywood stays for the start."}
 {"n":491,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at Stockyard fence. Nobody past the north escape. We start in 2 steps. Arc on the left lane, open."}
+{"n":492,"kind":"place","name":"Stockyard fence north escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Stockyard fence north escape. Ivo keeps the plywood for the start. 3 steps, arc on the left lane, open."}
+{"n":493,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, north escape. arc left open. 4 steps. The plywood stays for the start."}
+{"n":494,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the plywood at Stockyard fence. Nobody past the north escape. We start in 5 steps. Arc on the left lane, open."}
