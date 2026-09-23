@@ -315,3 +315,6 @@
 {"n":315,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south escape. arc left open. 4 steps. The radio coil stays for the start."}
 {"n":316,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the radio coil at Ward gate. Nobody past the south escape. We start in 5 steps. Arc on the left lane, open."}
 {"n":317,"kind":"place","name":"Ward gate south escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Ward gate south escape. Nia keeps the radio coil for the start. 6 steps, arc on the left lane, open."}
+{"n":318,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, south escape. arc left open. 7 steps. The radio coil stays for the start."}
+{"n":319,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the radio coil at Ward gate. Nobody past the south escape. We start in 8 steps. Arc on the left lane, open."}
+{"n":320,"kind":"place","name":"Ward gate south escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Ward gate south escape. Ivo keeps the radio coil for the start. 2 steps, arc on the left lane, open."}
