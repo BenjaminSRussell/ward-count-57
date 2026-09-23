@@ -989,3 +989,6 @@
 {"n":989,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south escape. arc left open. 8 steps. The crate stays for the start."}
 {"n":990,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at Kessler alley. Nobody past the south escape. We start in 2 steps. Arc on the left lane, open."}
 {"n":991,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley south escape. Bess keeps the crate for the start. 3 steps, arc on the left lane, open."}
+{"n":992,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south escape. arc left open. 4 steps. The crate stays for the start."}
+{"n":993,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at the Lot. Nobody past the south escape. We start in 5 steps. Arc on the left lane, open."}
+{"n":994,"kind":"place","name":"the Lot south escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Lot south escape. Matt keeps the crate for the start. 6 steps, arc on the left lane, open."}
