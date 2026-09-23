@@ -962,3 +962,6 @@
 {"n":962,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at Ward gate. Nobody past the north escape. We start in 4 steps. Arc on the left lane, open."}
 {"n":963,"kind":"place","name":"Ward gate north escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Ward gate north escape. Bess keeps the crate for the start. 5 steps, arc on the left lane, open."}
 {"n":964,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north escape. arc left open. 6 steps. The crate stays for the start."}
+{"n":965,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at Kessler alley. Nobody past the north escape. We start in 7 steps. Arc on the left lane, open."}
+{"n":966,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Kessler alley north escape. Matt keeps the crate for the start. 8 steps, arc on the left lane, open."}
+{"n":967,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, north escape. arc left open. 2 steps. The crate stays for the start."}
