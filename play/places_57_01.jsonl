@@ -462,3 +462,6 @@
 {"n":462,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, north escape. arc left open. 7 steps. The rope stays for the start."}
 {"n":463,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rope at Ward gate. Nobody past the north escape. We start in 8 steps. Arc on the left lane, open."}
 {"n":464,"kind":"place","name":"Ward gate north escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Ward gate north escape. Ivo keeps the rope for the start. 2 steps, arc on the left lane, open."}
+{"n":465,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, north escape. arc left open. 3 steps. The rope stays for the start."}
+{"n":466,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rope at Ward gate. Nobody past the north escape. We start in 4 steps. Arc on the left lane, open."}
+{"n":467,"kind":"place","name":"Ward gate north escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Ward gate north escape. Bess keeps the rope for the start. 5 steps, arc on the left lane, open."}
