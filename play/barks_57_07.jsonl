@@ -479,3 +479,6 @@
 {"n":479,"kind":"place","name":"Switchyard east curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard east curb. Bess keeps the rebar for the push. 4 steps, arc on the left lane, open."}
 {"n":480,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east curb. arc left open. 5 steps. The rebar stays for the push."}
 {"n":481,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the rebar at Drydock. Nobody past the east curb. We push in 6 steps. Arc on the left lane, open."}
+{"n":482,"kind":"place","name":"Drydock east curb","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock east curb. Matt keeps the rebar for the push. 7 steps, arc on the left lane, open."}
+{"n":483,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, east curb. arc left open. 8 steps. The rebar stays for the push."}
+{"n":484,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the rebar at Drydock. Nobody past the east curb. We push in 2 steps. Arc on the left lane, open."}
