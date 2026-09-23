@@ -83,3 +83,6 @@
 {"n":83,"kind":"place","name":"South stair south escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"South stair south escape. Bess keeps the drum for the start. 3 steps, arc on the left lane, open."}
 {"n":84,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south escape. arc left open. 4 steps. The drum stays for the start."}
 {"n":85,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at the pier. Nobody past the south escape. We start in 5 steps. Arc on the left lane, open."}
+{"n":86,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the pier south escape. Matt keeps the drum for the start. 6 steps, arc on the left lane, open."}
+{"n":87,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, south escape. arc left open. 7 steps. The drum stays for the start."}
+{"n":88,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the drum at the pier. Nobody past the south escape. We start in 8 steps. Arc on the left lane, open."}
