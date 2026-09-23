@@ -471,3 +471,6 @@
 {"n":471,"kind":"place","name":"Switchyard west curb","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard west curb. Bess keeps the radio coil for the push. 4 steps, arc on the left lane, open."}
 {"n":472,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west curb. arc left open. 5 steps. The radio coil stays for the push."}
 {"n":473,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the radio coil at Drydock. Nobody past the west curb. We push in 6 steps. Arc on the left lane, open."}
+{"n":474,"kind":"place","name":"Drydock west curb","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Drydock west curb. Matt keeps the radio coil for the push. 7 steps, arc on the left lane, open."}
+{"n":475,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west curb. arc left open. 8 steps. The radio coil stays for the push."}
+{"n":476,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the radio coil at Drydock. Nobody past the west curb. We push in 2 steps. Arc on the left lane, open."}
