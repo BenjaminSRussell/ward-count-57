@@ -450,3 +450,6 @@
 {"n":450,"kind":"place","name":"Ward gate north escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate north escape. Matt keeps the plywood for the start. 3 steps, arc on the left lane, open."}
 {"n":451,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north escape. arc left open. 4 steps. The plywood stays for the start."}
 {"n":452,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at Ward gate. Nobody past the north escape. We start in 5 steps. Arc on the left lane, open."}
+{"n":453,"kind":"place","name":"Ward gate north escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Ward gate north escape. Nia keeps the plywood for the start. 6 steps, arc on the left lane, open."}
+{"n":454,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, north escape. arc left open. 7 steps. The plywood stays for the start."}
+{"n":455,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at Ward gate. Nobody past the north escape. We start in 8 steps. Arc on the left lane, open."}
