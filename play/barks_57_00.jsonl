@@ -501,3 +501,6 @@
 {"n":501,"kind":"place","name":"Mall court north escape","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Mall court north escape. Nia keeps the plywood for the start. 5 steps, arc on the left lane, open."}
 {"n":502,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, north escape. arc left open. 6 steps. The plywood stays for the start."}
 {"n":503,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at Mall court. Nobody past the north escape. We start in 7 steps. Arc on the left lane, open."}
+{"n":504,"kind":"place","name":"Mall court north escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mall court north escape. Ivo keeps the plywood for the start. 8 steps, arc on the left lane, open."}
+{"n":505,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, north escape. arc left open. 2 steps. The plywood stays for the start."}
+{"n":506,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the plywood at Mall court. Nobody past the north escape. We start in 3 steps. Arc on the left lane, open."}
