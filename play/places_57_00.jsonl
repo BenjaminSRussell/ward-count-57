@@ -352,3 +352,6 @@
 {"n":352,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, east escape. arc left open. 3 steps. The radio coil stays for the start."}
 {"n":353,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the radio coil at Mast yard. Nobody past the east escape. We start in 4 steps. Arc on the left lane, open."}
 {"n":354,"kind":"place","name":"Mast yard east escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mast yard east escape. Matt keeps the radio coil for the start. 5 steps, arc on the left lane, open."}
+{"n":355,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, east escape. arc left open. 6 steps. The radio coil stays for the start."}
+{"n":356,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the radio coil at Mast yard. Nobody past the east escape. We start in 7 steps. Arc on the left lane, open."}
+{"n":357,"kind":"place","name":"Mast yard east escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mast yard east escape. Nia keeps the radio coil for the start. 8 steps, arc on the left lane, open."}
