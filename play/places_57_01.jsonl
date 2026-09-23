@@ -279,3 +279,6 @@
 {"n":279,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, north escape. arc left open. 6 steps. The lamp stays for the start."}
 {"n":280,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the lamp at High line. Nobody past the north escape. We start in 7 steps. Arc on the left lane, open."}
 {"n":281,"kind":"place","name":"High line north escape","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"High line north escape. Nia keeps the lamp for the start. 8 steps, arc on the left lane, open."}
+{"n":282,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, north escape. arc left open. 2 steps. The lamp stays for the start."}
+{"n":283,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at High line. Nobody past the north escape. We start in 3 steps. Arc on the left lane, open."}
+{"n":284,"kind":"place","name":"High line north escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"High line north escape. Ivo keeps the lamp for the start. 4 steps, arc on the left lane, open."}
